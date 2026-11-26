@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+log_mpu6050.txt
+test_log.txt
